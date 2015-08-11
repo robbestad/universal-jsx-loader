@@ -1,4 +1,4 @@
-# SVENJSX loader for Webpack
+# Webpack loader for universal-jsx
 
 Add the loader to your Webpack config, like so:
 
