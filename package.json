@@ -1,10 +1,10 @@
 {
   "name": "universal-jsx-loader",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Webpack loader for universal-jsx",
   "main": "index.js",
   "dependencies": {
-    "universal-jsx": "0.1.5",
+    "universal-jsx": "0.2.1",
     "loader-utils": "0.2.6"
   },
   "scripts": {
