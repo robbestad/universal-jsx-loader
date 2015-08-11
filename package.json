@@ -1,0 +1,25 @@
+{
+  "name": "universal-jsx-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader for universal-jsx",
+  "main": "index.js",
+  "dependencies": {
+    "universal-jsx": "0.1.5",
+    "loader-utils": "0.2.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/svenanders/universal-jsx-loader"
+  },
+  "keywords": [
+    "webpack",
+    "jsx",
+    "universal-jsx",
+    "universaljs"
+  ],
+  "author": "Sven A Robbestad <robbestad@gmail.com>",
+  "license": "ISC"
+}
