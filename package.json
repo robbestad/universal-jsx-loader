@@ -4,7 +4,7 @@
   "description": "Webpack loader for universal-jsx",
   "main": "index.js",
   "dependencies": {
-    "universal-jsx": "0.2.1",
+    "universal-jsx": "0.2.2",
     "loader-utils": "0.2.6"
   },
   "scripts": {
