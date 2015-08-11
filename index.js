@@ -1,5 +1,5 @@
 var loaderUtils = require('loader-utils');
-var universal-jsx = require('universal-jsx');
+var jsx = require('universal-jsx');
 
 module.exports = function(source) {
   this.cacheable();
@@ -30,5 +30,5 @@ module.exports = function(source) {
     this.emitWarning(warn);
   }
 
-  return universal-jsx.transform(source, params);
+  return jsx.transform(source, params);
 };
